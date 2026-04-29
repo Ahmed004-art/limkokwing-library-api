@@ -58,5 +58,9 @@ Visit **http://localhost:8000/docs** for the interactive Swagger UI.
 
 ## Author
 
+Name: Ahmed junior Kamara
+ID:905005337
+Class: DIT1101F
+Module: object oriented programming 2
 Student – Faculty of Information and Communication Technology  
 Semester 04 | March 2026 – July 2026
